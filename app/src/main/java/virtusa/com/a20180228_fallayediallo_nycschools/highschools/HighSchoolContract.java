@@ -1,4 +1,4 @@
-package virtusa.com.a20180228_fallayediallo_nycschools.highSchools;
+package virtusa.com.a20180228_fallayediallo_nycschools.highschools;
 
 import java.util.List;
 

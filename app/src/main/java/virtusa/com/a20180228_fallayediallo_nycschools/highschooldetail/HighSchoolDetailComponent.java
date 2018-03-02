@@ -1,4 +1,4 @@
-package virtusa.com.a20180228_fallayediallo_nycschools.highSchoolDetail;
+package virtusa.com.a20180228_fallayediallo_nycschools.highschooldetail;
 
 import dagger.Component;
 import virtusa.com.a20180228_fallayediallo_nycschools.data.component.NetComponent;

@@ -1,4 +1,4 @@
-package virtusa.com.a20180228_fallayediallo_nycschools.highSchools;
+package virtusa.com.a20180228_fallayediallo_nycschools.highschools;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ import javax.inject.Inject;
 
 import virtusa.com.a20180228_fallayediallo_nycschools.App;
 import virtusa.com.a20180228_fallayediallo_nycschools.R;
-import virtusa.com.a20180228_fallayediallo_nycschools.highSchoolDetail.HighSchoolDetailActivity;
+import virtusa.com.a20180228_fallayediallo_nycschools.highschooldetail.HighSchoolDetailActivity;
 import virtusa.com.a20180228_fallayediallo_nycschools.model.HighSchoolInfo;
 import virtusa.com.a20180228_fallayediallo_nycschools.utils.RecyclerItemClickListener;
 import virtusa.com.a20180228_fallayediallo_nycschools.utils.adapter.HighSchoolAdapter;

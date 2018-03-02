@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="virtusa.com.a20180228_fallayediallo_nycschools.highSchools.HighSchoolActivity">
+    tools:context="virtusa.com.a20180228_fallayediallo_nycschools.highschools.HighSchoolActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerView"

@@ -1,4 +1,4 @@
-package virtusa.com.a20180228_fallayediallo_nycschools.highSchoolDetail;
+package virtusa.com.a20180228_fallayediallo_nycschools.highschooldetail;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
